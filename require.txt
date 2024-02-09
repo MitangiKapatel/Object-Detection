@@ -1,0 +1,16 @@
+opencv-python
+opencv-contrib-python
+tensorflow
+configparser
+Flask
+flask-restplus
+Werkzeug
+python-tk
+Pillow
+numpy
+pyzmq
+logging
+protobuf
+Keras
+scikit-learn
+imgaug
